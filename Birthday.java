@@ -28,7 +28,7 @@ public class Birthday
             System.out.println("There are 30 days in the month of your birthening");
         }
         else if (x == 2) {
-            System.out.println("There are only 30 days in the month of your birthening");
+            System.out.println("There are only 28 days in the month of your birthening");
         }
         
         //output the result to the user
